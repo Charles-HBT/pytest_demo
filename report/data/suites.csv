@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 06 20:23:00 CST 2022","Tue Dec 06 20:23:00 CST 2022","63","","test_api","","","","test_api[第一个get请求-GET-{'Contet-Type':'application/json'}-{'name':'hbt','password':'123456'}-测试通过]",""
+"failed","Tue Dec 06 20:23:00 CST 2022","Tue Dec 06 20:23:00 CST 2022","52","","test_api","","","","test_api[第二个post请求-POST-{'Contet-Type':'application/json'}-{'name':'hbt','password':'123456'}-测试通过]",""

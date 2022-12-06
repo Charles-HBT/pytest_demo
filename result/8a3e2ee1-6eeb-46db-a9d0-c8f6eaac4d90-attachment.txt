@@ -1,0 +1,4 @@
+[32mINFO    [0m root:read_data.py:26 加载..\config\setting.ini 文件....
+[32mINFO    [0m root:read_data.py:30 读到数据==> {'host': {'api_url': 'http://139.159.185.228'}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:227 Starting new HTTP connection (1): 139.159.185.228:80
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 http://139.159.185.228:80 "POST / HTTP/1.1" 405 178
