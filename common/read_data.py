@@ -35,7 +35,7 @@ class ReadFileData():
         fb = xlrd.open_workbook(file_path)
         sheetnames = fb.sheet_names()
         # print(sheetnames)
-        casesheet = fb.sheet_by_name('Sheet1')
+        casesheet = fb.sheet_by_index(0) #根据sheet的索引获取sheet
         rows = casesheet.nrows
         data= []
         for row in range(1, rows):
